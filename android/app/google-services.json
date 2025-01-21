@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "342385054887",
+    "project_id": "flutter-notes-c217e",
+    "storage_bucket": "flutter-notes-c217e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342385054887:android:3e7b23f0328b28df583782",
+        "android_client_info": {
+          "package_name": "com.example.tuti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342385054887-q9bu1ngtdk8tuq68plqqc2gsr17ftffn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuti",
+            "certificate_hash": "cd54b75d26a2636c44935d8456a0607231d753ae"
+          }
+        },
+        {
+          "client_id": "342385054887-fvuh7qmm1l1qt5e6jjtlb820hsksundn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25D8mGW7xbFbTvCw-vbV7ui4GajdXXWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342385054887-fvuh7qmm1l1qt5e6jjtlb820hsksundn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342385054887-92euvqbgl7erns7a48nco1jp18418bf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tuti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342385054887:android:3171fcc6606be4a7583782",
+        "android_client_info": {
+          "package_name": "com.example.tutsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342385054887-fvuh7qmm1l1qt5e6jjtlb820hsksundn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25D8mGW7xbFbTvCw-vbV7ui4GajdXXWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342385054887-fvuh7qmm1l1qt5e6jjtlb820hsksundn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342385054887-92euvqbgl7erns7a48nco1jp18418bf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tuti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
